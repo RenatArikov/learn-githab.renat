@@ -14,3 +14,4 @@ git push origin master
 7. с помощью git pull вытянуть из githab информацию 
 
 # README
+ответьте мне pleassssseeee
